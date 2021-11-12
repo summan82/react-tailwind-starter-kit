@@ -5,3 +5,5 @@
     npm install
     $ npm run start
     $ npm run build
+
+Happy Coding :)
